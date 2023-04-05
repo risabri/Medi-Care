@@ -21,7 +21,7 @@ medication administration, and a messaging system to connect with
 peers.
 
 
-#Overall 
+# Overall 
 MediConnect is a promising proof of concept for an app that connects
 older adults with similar medication schedules, providing a platform
 for peer support and medication reminders. By focusing on the timing
@@ -29,7 +29,7 @@ of medication administration rather than specific medication
 information.
 
 
-#Author 
+# Author 
 Rita Sabri 
 
 
