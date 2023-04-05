@@ -1,4 +1,4 @@
-# Medi-Care
+# MediConnect 
 MedConnect is a mobile app designed to connect older adults with
 similar medication schedules, providing a platform for peer support
 and medication reminders. The app is intended to address the problem
